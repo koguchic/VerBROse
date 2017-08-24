@@ -23,6 +23,8 @@ for artist in artists:
     for attrib in attributes:
         print('\t~ ', attrib, '\n\t\t', artist[attrib]) # print key and values for each artist
 
+
+
 """
 
 Dictionary Keys and Expected Values
