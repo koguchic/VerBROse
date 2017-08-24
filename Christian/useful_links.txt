@@ -1,4 +1,7 @@
 https://github.com/koguchic/VerBROse
 https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/
 https://cse.google.com/cse/publicurl?cx=002720237717066476899:v2wv26idk7m
+https://developer.spotify.com/my-applications/#!/applications/65caa2e15c2147d59ba48af9741319f3
+https://spotipy.readthedocs.io/en/latest/
+
 
